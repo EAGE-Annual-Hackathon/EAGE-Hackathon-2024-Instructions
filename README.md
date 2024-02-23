@@ -2,6 +2,7 @@
 Here you will find all the info you need to know to participate in the 2024 EAGE Annual Hackathon in Oslo!
 
 # Theme: Coding to Net-Zero - Using AI and Programming to Make an Impact on the Energy Transition!
+![](https://github.com/EAGE-Annual-Hackathon/EAGE-Hackathon-2024-Instructions/blob/main/23048-osl24_promo_package_sm_banner_1200x1200px18.png?raw=true)
 
 # Participant Guide
 
