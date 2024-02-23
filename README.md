@@ -10,7 +10,7 @@ This event will be facilitated in English and will be an in-person only event.
 
 ## What you need to do as a hackathon participant:
 1.  Join the online meetup in May to start thinking about ideas and forming a team if you don't already have one.
-2.  We will use a [Github discussion board](https://github.com/orgs/EAGE-Annual-Hackathon/discussions/7) – so if you are looking for a team to join or have a topic that you would like some people to help you work on – please post.
+2.  We will use a [Github discussion board](https://github.com/orgs/EAGE-Annual-Hackathon/discussions/12) – if you are looking for a team to join or have a topic that you would like some people to help you work on – please post.
     - There will be some time on Sunday morning to finalize the teams, but the expectation is that you have tried to find a team upfront.
 3. Get your team ready!
     - You will need to bring your laptop and power cable.
@@ -18,7 +18,7 @@ This event will be facilitated in English and will be an in-person only event.
     - What data do you need?  The hackathon facilitators will put together some data for you to use.
     - Are you going to use an existing model or build one from scratch?
         - What technology will your team use (python packages, dashboards, interpreters..etc).  
-The facilitators will provide some ideas and provide you with some technology to get you thinking - you can find [this thread](https://github.com/orgs/EAGE-Annual-Hackathon/discussions/9) in the discussion board above.
+The facilitators will provide some ideas and provide you with some technology to get you thinking - you can find [this thread](https://github.com/orgs/EAGE-Annual-Hackathon/discussions/11) in the discussion board above.
 3. Familiarize yourself with the agenda.
     - This is a fairly short hackathon.  Your team will be expected to present your final outcome on Monday afternoon at 14:00.  That means code freeze will happen at 12:00.
     - With your team, try to come up with a plan of attack keeping in mind the short time.
@@ -53,7 +53,8 @@ Information to come!
 ### Location:
 The hackathon will be at the same conference venue as the rest of EAGE Annual.  Details to come!
 
-### Available Technology:
+### Available Technology and Data:
+Follow [this thread](https://github.com/orgs/EAGE-Annual-Hackathon/discussions/13) for datasets, packages, and tips and tricks:
 We will have access to both Nvidia GPUs and Microsoft services.  Please use the guides below to get started!
 
 -Coming soon!
