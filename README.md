@@ -47,6 +47,15 @@ Monday 10 June
 # Remember – hackathons aren’t about coming up with the perfect solution – it is about exploring ideas, understanding what doesn’t work, and of course having FUN!
  
 ## Practicalities in Oslo:
+
+### Mentors and Facilitators:
+You will be supported during the hack by:
+- Oleg Ovcharenko, NVIDIA
+- Ashley Russell, Equinor
+- Lukas Mosser, AkerBP
+- Issam Said, NVIDIA
+- Clement Etienam, NVIDIA
+    
 ### Food:
 Information to come!
 
