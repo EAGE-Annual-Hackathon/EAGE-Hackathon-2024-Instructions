@@ -1,7 +1,7 @@
 # EAGE-Hackathon-2024-Instructions
 Here you will find all the info you need to know to participate in the [2024 EAGE Annual Hackathon in Oslo](https://eageannual.org/hackathon/)! 
 
-This year, we seek for ways of solving geoscience problems in a computationally and energy-efficient way. Use AI to mimic the first-principle physics, or train an all to suggest hyperparameters for an algorithm and save multiple rounds of search iterations, or bring your code and make it work faster!
+This year, we seek for ways of solving geoscience problems in a computationally and energy-efficient way. Use AI to mimic the first-principle physics, or train a model to suggest hyperparameters for an algorithm and save multiple rounds of search iterations, or bring your code and make it work faster!
 
 # Coding to Net-Zero - Using AI and Programming to Make an Impact on the Energy Transition!
 ![](https://github.com/EAGE-Annual-Hackathon/EAGE-Hackathon-2024-Instructions/blob/main/23048-osl24_promo_package_sm_banner_1200x1200px18.png?raw=true)
