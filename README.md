@@ -12,8 +12,8 @@ This event will be facilitated in English and will be an in-person only event. T
 
 **💡 Brainstorm Ideas [here](https://github.com/orgs/EAGE-Annual-Hackathon/discussions/11)**<br>
 **🛠️ Explore resources [here](https://github.com/orgs/EAGE-Annual-Hackathon/discussions/13)**<br>
-**📣 Find your team [here](https://github.com/orgs/EAGE-Annual-Hackathon/discussions/12)**
-
+**📣 Find your team [here](https://github.com/orgs/EAGE-Annual-Hackathon/discussions/12)**<br>
+**👉 Register [here](https://eageannual.org/registration/)**
 
 ## What you need to do as a hackathon participant:
 1.  **Join the online meetup** in May to start thinking about ideas and forming a team if you don't already have one.
