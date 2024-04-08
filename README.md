@@ -56,7 +56,7 @@ Monday, June 10:
 ```
 **🍔 Food:** Information to come!
 
-**📍 Location:** The hackathon will be at the same conference venue as the rest of EAGE Annual.  Details to come!
+**📍 Location:** The hackathon will be at the same conference venue as the rest of EAGE Annual: NOVA Spektrum - Messeveien 8, 2004 Lillestrøm, Norway.  It is a short walk from the train station at Lillestrøm - with connections to both airport and hotels and to the center of Oslo.  Stay tuned for the room.
 
 ## Pre-hackathon workshops
 To equip our hackathon participants with crucial insights into LLMs and physics-based ML, we're excited to offer two comprehensive workshops. These sessions are designed not only to introduce the foundational technology behind our quickstart materials but also to serve as a prime networking opportunity, potentially helping you find your ideal teammate before the competition begins.
