@@ -32,9 +32,8 @@ The facilitators will provide some ideas and provide you with some technology to
 4. **Yes, there will be a final presentation from each team** with two teams up for award from a judging panel of experts and from the hackathon participants.
     - The facilitators will reveal the criteria for the presentation Monday morning (this is so you can focus on your work and not on creating a presentation 😊)
     - Remember to take screenshots, record methods, and document your thought process along the way – this will help you to faster put together a final presentation.
-5. **Final presentation session will be recorded.**
-6. You are expected to upload all code to a repository in this hackathon Github organization.
-7. **Award winners will be asked to present their results at the Energy Transition Theatre** within the main exhibition floor during the conference - schedule to be announced soon!.
+5. You are expected to upload all code to a repository in this hackathon Github organization.
+6. **Award winners will be asked to present their results at the Energy Transition Theatre** within the main exhibition floor during the conference - schedule to be announced soon!.
 
 ## Agenda:
 Sunday, June 9:
