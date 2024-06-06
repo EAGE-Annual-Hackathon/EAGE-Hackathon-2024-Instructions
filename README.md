@@ -53,7 +53,7 @@ Monday, June 10:
 14:00 - 15:15 CEST - Presentations to the Judging Panel 
 15:15 - 15:45 CEST - Announcement of the winners and prizes *
 ```
-**🍔 Food:** Information to come!
+**🍔 Food:** Lunch will be provided - including a vegetarian option.
 
 **📍 Location:** The hackathon will be at the same conference venue as the rest of EAGE Annual: NOVA Spektrum - Messeveien 8, 2004 Lillestrøm, Norway.  It is a short walk from the train station at Lillestrøm - with connections to both airport and hotels and to the center of Oslo.  We will be in *ROOM 8*.
 
